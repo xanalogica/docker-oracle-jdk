@@ -3,7 +3,7 @@ Docker Image Definition for an Oracle JDK Base Image under CentOS6
 
 # Supported tags and `Dockerfile` links
 
-- [`7u75`, `7`, `latest` (*Dockerfile*)](https://github.com/xanalogica/docker-oracle-jdk/blob/master/7u75/Dockerfile)
+- [`7u75`, `7`, `latest` (*Dockerfile*)](https://github.com/xanalogica/docker-oracle-jdk/blob/master/Dockerfile)
 
 # What is Java?
 
