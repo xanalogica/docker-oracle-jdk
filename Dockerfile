@@ -4,7 +4,7 @@ MAINTAINER Jeff Rush <jrush@zeomega.com>
 ENV VERSION         7u75
 ENV ORACLE_ARCHIVE  http://download.oracle.com/otn-pub/java/jdk/${VERSION}-b13
 ENV RPMNAME         jdk-${VERSION}-linux-x64.rpm
-ENV JAVA_HOME       /home/java/default
+ENV JAVA_HOME       /usr/java/default
 
 RUN yum update -y							\
  && yum install -y wget
